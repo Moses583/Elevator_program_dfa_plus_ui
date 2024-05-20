@@ -63,12 +63,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
     private void initViews() {
         man0 = findViewById(R.id.man0);
         man1 = findViewById(R.id.man1);
-        man2 = findViewById(R.id.man2);
-        man3 = findViewById(R.id.man3);
+//        man2 = findViewById(R.id.man2);
+//        man3 = findViewById(R.id.man3);
         floor1 = findViewById(R.id.floor1);
         floor2 = findViewById(R.id.floor2);
         floor3 = findViewById(R.id.floor3);
